@@ -111,7 +111,7 @@ def inspect_metadata(pil_img: Image.Image) -> dict:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# 4. DCT Coefficient Analysis [NEW]
+# 4. DCT Coefficient Analysis 
 #    AI images are too smooth → very low high-frequency DCT energy
 # ─────────────────────────────────────────────────────────────────────────────
 
